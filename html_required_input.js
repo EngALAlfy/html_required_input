@@ -1,4 +1,4 @@
-let $required = "<i class='required text-danger'> * </i>";
+            let $required = "<i class='required text-danger'> * </i>";
             let $notRequired = "<i class='not-required text-muted'> (optional) </i>";
 
             if ($('.validate-required').find(".required").length <= 0) {
