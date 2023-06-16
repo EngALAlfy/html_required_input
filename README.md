@@ -8,3 +8,9 @@ Just include the libraray in page you want to add [ * ] for required or (optiona
 ```js
 <script src="html_required_input.js" ></script>
 ```
+
+Then
+
+```js
+validateInputs();
+```
