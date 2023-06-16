@@ -14,3 +14,9 @@ Then
 ```js
 validateInputs();
 ```
+
+## Customize
+
+if you want to skip validate jus add class `no-validate` to label
+
+if you want to enforce required star just add class `validate-required` to label
