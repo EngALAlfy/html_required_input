@@ -1,4 +1,4 @@
-# html required input
+# HTML Required Input
 JavaScript Library to add Optional or Required to Html inputs
 
 ## Usage
